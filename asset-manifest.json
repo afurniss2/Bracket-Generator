@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bracket-Generator/static/css/main.f855e6bc.css",
+    "main.js": "/Bracket-Generator/static/js/main.1dde33b1.js",
+    "static/js/592.4756aec8.chunk.js": "/Bracket-Generator/static/js/592.4756aec8.chunk.js",
+    "static/media/logo.svg": "/Bracket-Generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bracket-Generator/index.html",
+    "main.f855e6bc.css.map": "/Bracket-Generator/static/css/main.f855e6bc.css.map",
+    "main.1dde33b1.js.map": "/Bracket-Generator/static/js/main.1dde33b1.js.map",
+    "592.4756aec8.chunk.js.map": "/Bracket-Generator/static/js/592.4756aec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1dde33b1.js"
+  ]
+}
